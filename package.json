@@ -91,6 +91,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "babel-preset-minify": "^0.2.0"
+    "babel-preset-minify": "^0.2.0",
+    "webpack-bundle-analyzer": "^2.9.1"
   }
 }
