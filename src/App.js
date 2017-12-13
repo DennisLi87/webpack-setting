@@ -13,10 +13,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-          
-        <h2>Hello world</h2>
-        <h2>Hello world2</h2>
-        <h2>Hello world2</h2>
+        <h2>Test NamedModulesPlugin add manifest</h2>
       </div>
     );
   }
